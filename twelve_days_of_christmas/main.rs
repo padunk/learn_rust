@@ -1,5 +1,5 @@
 fn main() {
-   println!("Twelve Days of Chrismas Lyrics");
+   println!("Twelve Days of Christmas Lyrics");
    let lyrics = [
       "A partridge in a pear tree",
       "turtle doves, and",
